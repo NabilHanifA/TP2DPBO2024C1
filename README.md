@@ -49,3 +49,16 @@ Pada tahap awal, program akan terhubung ke database MySQL dan menampilkan data m
 Desain program ini didasarkan pada prinsip MVC (Model-View-Controller) yang memisahkan antara logika bisnis aplikasi, antarmuka pengguna, dan pengelolaan data. Hal ini memungkinkan aplikasi untuk lebih mudah diatur, dipelihara, dan diperluas di masa mendatang.
 
 ## Dokumentasi Program 
+![Screenshot 1](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/7ca8bbe3-cd7c-4011-83be-8833083a9eb1)
+![Screenshot 2](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/a69d5906-f9ef-4550-bf15-e40943054b16)
+![Screenshot 3](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/c3adcfe2-0e13-4300-bbbc-5a365e3c3d44)
+![Screenshot 4](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/543bce1f-3b67-45d1-a0fb-e383bb08b353)
+![Screenshot 5](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/e9260b1b-7d5f-40ad-a01c-01aceca9086d)
+![Screenshot 6](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/25e51f33-1764-44c4-ba2a-79f16d0f9bcd)
+![Screenshot 7](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/00a52d1b-5b26-43e5-9a64-e7ad6dae9bb1)
+![Screenshot 8](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/a42f8e37-9918-4a88-8787-3476936ce28c)
+![Screenshot 9](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/926884dc-d099-4eb8-b322-399078bfd153)
+![Screenshot 10](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/87c26ccf-79e3-4781-9bec-9a75b5887d9c)
+![Screenshot 11](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/6b5771ca-77be-4e07-9b19-dbe9f9c29f72)
+![Screenshot 12](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/a19e3ad2-a9f5-4fd1-a110-c879df52ec52)
+![Screenshot 13](https://github.com/NabilHanifA/TP2DPBO2024C1/assets/133948088/15a83b81-9ae8-43b5-bc7a-8caae1e3eaa4)
